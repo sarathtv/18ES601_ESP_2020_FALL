@@ -1,6 +1,26 @@
-# Read Me for 18ES601 Embedded System Programming.
-## You will find the materials for my course here.
-- [Bridge Course][Link_bride]
+# 18ES601 _Embedded System Programming_.
+> Welcome to the github page of 18ES601 Embedded system programming course.Here you will find the class presentations,reading materials,assignments and all other document related to this course. 
+
+## Upon completing this course the student will acquire knowlegde about 
+
+* To be able to develop C programs on windows and Linux platform.
+* Demonstrate an understanding of computer programming language concepts.
+* Understand the concepts of functions and modularising the code.
+* Ability to interpret the concept of pointers, declarations, initialization, operations on pointers and their usage.
+* Understand the file operation for embedded applications.
+* Compare embedded C and C.
+* Implement a linked list and a queue.
+* Understanding the usage of LL and queue in embedded system applications.
+* Understand the features of oops  and differentiate it from structured programming .
+* Understand the basics of an interpreted language.
+* Understand shell scripting and its need.
+* Demonstrate an understanding the coding standards and convention.
+*  Demonstrate an understanding of the tools used for documenting the code.
+
+
+
+### Links for course materials.
+- [Bridge Course][Link_bride]  
 - [Course Introduction][link_intro]
 
 
