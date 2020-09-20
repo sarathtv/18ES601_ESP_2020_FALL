@@ -22,6 +22,9 @@
 ### Links for course materials.
 - [Bridge Course][Link_bride]  
 - [Course Introduction][link_intro]
+- [Lecture 1][Lect1_pdf]
+- [Lecture 1 video][Lect1]
+- [Lecture 1 Programming][Lect1_Programming]
 
 
 
@@ -46,3 +49,6 @@
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
+[Lect1_pdf]:
+[Lect1]:https://youtu.be/Fjm0EIR-Jt8
+[Lect1_Programming]:https://youtu.be/jLNHRspCRpg
