@@ -49,6 +49,6 @@
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
-[Lect1_pdf]:
+[Lect1_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_1.pdf
 [Lect1]:https://youtu.be/Fjm0EIR-Jt8
 [Lect1_Programming]:https://youtu.be/jLNHRspCRpg
