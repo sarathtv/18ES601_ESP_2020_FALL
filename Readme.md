@@ -20,7 +20,7 @@
 
 
 ### Links for course materials.
-- [Bridge Course][Link_bride]  
+- [Bridge Course][Link_bride]
 - [Course Introduction][link_intro]
 - [Lecture 1][Lect1_pdf]
 - [Lecture 1 video][Lect1]
