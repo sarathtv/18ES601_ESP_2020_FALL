@@ -29,27 +29,7 @@
 - [Lecture 2][lect2_pdf]
 - [Lecture 2 video][Lect2]
 - [Lecture 2 Programming][Lect2_Programming]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Code Lec 2][L2_Code]
 
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
@@ -57,8 +37,8 @@
 [Lect1_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_1.pdf
 [Lect1]:https://youtu.be/Fjm0EIR-Jt8
 [Lect1_Programming]:https://youtu.be/jLNHRspCRpg
-[Lect1_reading_pdf]:
-[lect2_pdf]:
+[Lect1_reading_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_1_ReadingMaterial.pdf
+[lect2_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_2.pdf
 [Lect2]:https://youtu.be/jG8DpesceeQ
 [Lect2_Programming]:https://youtu.be/kAgwme-bmok
-
+[L2_Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec_2
