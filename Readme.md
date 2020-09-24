@@ -25,6 +25,11 @@
 - [Lecture 1][Lect1_pdf]
 - [Lecture 1 video][Lect1]
 - [Lecture 1 Programming][Lect1_Programming]
+- [Lecture 1 Reading Material][Lect1_reading_pdf]
+- [Lecture 2][lect2_pdf]
+- [Lecture 2 video][Lect2]
+- [Lecture 2 Programming][Lect2_Programming]
+
 
 
 
@@ -52,3 +57,8 @@
 [Lect1_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_1.pdf
 [Lect1]:https://youtu.be/Fjm0EIR-Jt8
 [Lect1_Programming]:https://youtu.be/jLNHRspCRpg
+[Lect1_reading_pdf]:
+[lect2_pdf]:
+[Lect2]:https://youtu.be/jG8DpesceeQ
+[Lect2_Programming]:https://youtu.be/kAgwme-bmok
+
