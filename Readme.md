@@ -43,5 +43,5 @@
 [Lect2]:https://youtu.be/aI3XLMLim8E
 [Lect2_Programming]:https://youtu.be/kAgwme-bmok
 [L2_Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec_2
-[lec3_pdf]:
+[lec3_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_3.pdf
 [lec3]:https://youtu.be/AGhMaWZbivk
