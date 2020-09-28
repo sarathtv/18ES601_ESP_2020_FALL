@@ -15,7 +15,7 @@
 * Understand the basics of an interpreted language.
 * Understand shell scripting and its need.
 * Demonstrate an understanding the coding standards and convention.
-*  Demonstrate an understanding of the tools used for documenting the code.
+* Demonstrate an understanding of the tools used for documenting the code.
 
 
 
@@ -30,7 +30,8 @@
 - [Lecture 2 video][Lect2]
 - [Lecture 2 Programming][Lect2_Programming]
 - [Code Lec 2][L2_Code]
-
+- [Lecture 3][lec3_pdf]
+- [Lecture 3 Video][lec3]
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
@@ -42,3 +43,5 @@
 [Lect2]:https://youtu.be/aI3XLMLim8E
 [Lect2_Programming]:https://youtu.be/kAgwme-bmok
 [L2_Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec_2
+[lec3_pdf]:
+[lec3]:https://youtu.be/AGhMaWZbivk
