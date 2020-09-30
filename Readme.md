@@ -29,19 +29,36 @@
 - [Lecture 2][lect2_pdf]
 - [Lecture 2 video][Lect2]
 - [Lecture 2 Programming][Lect2_Programming]
+- [Lecture 2 Reading Material][Lect2_reading_pdf]
 - [Code Lec 2][L2_Code]
 - [Lecture 3][lec3_pdf]
 - [Lecture 3 Video][lec3]
+- [Lecture 3 Reading Material][Lect3_reading_pdf]
+- [Lecture 4][lec4_pdf]
+- [Lecture 4 Video][lec4]
+- [Lecture 4 Reading Material][Lect4_reading_pdf]
+
+
+
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
+
 [Lect1_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_1.pdf
 [Lect1]:https://youtu.be/Fjm0EIR-Jt8
 [Lect1_Programming]:https://youtu.be/jLNHRspCRpg
 [Lect1_reading_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_1_ReadingMaterial.pdf
+
 [lect2_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_2.pdf
 [Lect2]:https://youtu.be/aI3XLMLim8E
 [Lect2_Programming]:https://youtu.be/kAgwme-bmok
 [L2_Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec_2
+[Lect2_reading_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_2_ReadingMaterial.pdf
+
 [lec3_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_3.pdf
 [lec3]:https://youtu.be/AGhMaWZbivk
+[Lect3_reading_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_3_ReadingMaterial.pdf
+
+[lec4_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_4.pdf
+[lec4]:https://youtu.be/1jm_YCGVwOc
+[Lect4_reading_pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_4_ReadingMaterial.pdf
