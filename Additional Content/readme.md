@@ -7,6 +7,7 @@
 - [Git branching][gitbrnch]
 - [Doxygen Tutorial][doxy_vid]
 - [Doxygen Files ][doxy_files]
+- [Doxygen Handout][doxy_handout]
 
 [cb]:https://youtu.be/Xghgz3OdSlo
 [gitinst]:https://youtu.be/8-ziLvzZVOg
@@ -14,3 +15,4 @@
 [gitbrnch]:https://youtu.be/3SD1uriFAo0
 [doxy_vid]:https://youtu.be/3Dl0oBacy_w
 [doxy_files]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Doxygen
+[doxy_handout]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Additional%20Content/Doxygen/Doxygen%20Syntax.pdf
