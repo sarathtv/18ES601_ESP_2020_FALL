@@ -1,52 +1,46 @@
 /** @file operations.h
- *  @brief A console driver.
- *  The function prototype for the calculator operations.
- *
- *  @author Sarath T.V
- *  @bug Some bugs in some functions.
- */
+*  @brief The function prototypes.
+*  @author Sarath T.V.
+*  @bug No bugs in this functions.
+*/
 
 
 /**
-* @brief The add function adds two numbers.
-* this is a detailed description of the function add.
-* @param varOne  The first integer for adding
-* @param varTwo  The second integer for adding
-* @return The sum of arguments varOne and varTwo
+* @brief This add function adds two numbers.
+* This is a detailed description of the add function.
+* @param varOne This is the first integer for addition.
+* @param varTwo This is the second integer for addition.
+* @return The sum of the two integer arguments.
 */
+int add(int varOne,int varTwo);
 
-int add (int varOne,int VarTwo);
 
+/// @brief This sub function subtracts two numbers.
+/// This is a detailed description of the sub function.
+///@param[in] varOne This is the first integer for subtraction.
+/// @param[in] varTwo This is the second integer for subtraction.
+/// @param[out] diff The difference of the two integer arguments.
 
-/// @brief The sub function subtracts two numbers.
-/// this is a detailed description of the function sub.
-/// @param  varOne  The first integer for subtracting
-/// @param  varTwo  The second integer for subtracting
-/// @return The difference of arguments varOne and varTwo
-
-int sub (int varOne,int VarTwo);
-
+int sub(int varOne,int varTwo);
 
 /**
-* @brief The mul function multiplies two numbers.
-* this is a detailed description of the function mul.
-* @param[in] varOne  The first integer for multypling
-* @param[in] varTwo  The second integer for multypling
-* @param[out] Product The Product of arguments varOne and varTwo
-* @see operations.c
+* @brief This mul function multiplies two numbers.
+* This is a detailed description of the mul function.
+* @param varOne This is the first integer for multipilicaiton.
+* @param varTwo This is the second integer for multipilicaiton.
+* @return The product of the two integer arguments.
 */
-int mul (int varOne,int VarTwo);
+int mul(int varOne,int varTwo);
 
 
-/**
-* @brief The divs function divides two numbers.
-* this is a detailed description of the function divs.
-* @param varOne  The first integer for division
-* @param varTwo  The second integer for division
-* @return The reminder of arguments varOne and varTwo
-* @note Doesnt work with data type other than int.
-* @warning divs wont work properly if floats are given.
-* @attention This is some thing to take care.
-* @see add() sub()
-*/
-int divs(int varOne,int VarTwo);
+/// @brief This divs function subtracts two numbers.
+/// This is a detailed description of the divs function.
+///@param[in] varOne This is the first integer for division.
+/// @param[in] varTwo This is the second integer for division.
+/// @param[out]  rem The reminder of the two integer arguments.
+/// @note Please take care of the input argument types
+/// @warning divs wont work properly if floats are given.
+/// @attention this is some thing that you need to take care
+/// @see add(), sub()
+/// @see main.c
+int divs(int varOne,int varTwo);

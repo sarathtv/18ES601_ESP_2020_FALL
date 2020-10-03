@@ -1,34 +1,33 @@
 /** @file operations.c
- *  @brief A console driver.
- *  The function definitions for the calculator operations.
- *
- *  @author Sarath T.V
- *  @bug No know bugs.
- */
+*  @brief The function definitions.
+*  @author Sarath T.V.
+*  @bug No bugs in this functions.
+*/
 #include"operations.h"
 
-/// another global variable .
-int test_var;
+///Global Variable in operations.c
+int varGlo=100;
 
-int add(int VarOne,int varTwo)
+int add(int varOne,int varTwo)
 {
-return(VarOne+varTwo);
+    return(varOne+varTwo);
+
 }
 
-int sub(int VarOne,int varTwo)
+int sub(int varOne,int varTwo)
 {
-int diff=0;
-return(VarOne-varTwo);
+    return(varOne+varTwo);
+
 }
 
-int mul(int VarOne,int varTwo)
+int mul(int varOne,int varTwo)
 {
+    return(varOne*varTwo);
 
-return(VarOne*varTwo);
 }
 
-int divs(int VarOne,int varTwo)
+int divs(int varOne,int varTwo)
 {
+    return(varOne/varTwo);
 
-    return(VarOne/varTwo);
 }
