@@ -44,6 +44,8 @@
 - [Lecture 6][lec6pdf]
 - [Lecture 6 Video][lec6]
 - [Lecture Reading Material][lec6_reading]
+- [Lecture 7][lec7]
+- [Lecture 7][lec7pdf]
 
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
@@ -76,3 +78,6 @@
 [lec6pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_6.pdf
 [lec6]:https://youtu.be/yYDJ68F6kv4
 [lec6_reading]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_6_ReadingMaterial.pdf
+
+[lec7pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_7.pdf
+[lec7]:https://youtu.be/zywYeGTZM_U
