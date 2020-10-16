@@ -46,8 +46,10 @@
 - [Lecture Reading Material][lec6_reading]
 - [Lecture 7 ][lec7pdf]
 - [Lecture 7 Video][lec7]
+- [Lecture 7 Reading Material][lec7_reading]
 - [Lecture 8 ][lec8pdf]
 - [Lecture 8 Video][lec8]
+- [Lecture 8 Reading Material][lec8_reading]
 - [Lecture 9][lec9pdf]
 - [Lecture 9.1 Video][lec9.1]
 - [Lecture 9.2 Video][lec9.2]
@@ -86,9 +88,11 @@
 
 [lec7pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_7.pdf
 [lec7]:https://youtu.be/zywYeGTZM_U
+[lec7_reading]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_7_ReadingMaterial.pdf
 
 [lec8pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_8.pdf
 [lec8]:https://youtu.be/fJ_tJX9L3nk
+[lec8_reading]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_8_ReadingMaterial.pdf
 
 [lec9pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_9.pdf
 [lec9.1]:https://youtu.be/Al2gkXmIf9w
