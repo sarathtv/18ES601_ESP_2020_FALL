@@ -90,6 +90,6 @@
 [lec8pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_8.pdf
 [lec8]:https://youtu.be/fJ_tJX9L3nk
 
-[lec9pdf]:
-[lec9.1]:
-[lec9.2]:
+[lec9pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_9.pdf
+[lec9.1]:https://youtu.be/Al2gkXmIf9w
+[lec9.2]:https://youtu.be/N3BDVAnN4RI
