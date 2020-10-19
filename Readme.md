@@ -53,7 +53,7 @@
 - [Lecture 9][lec9pdf]
 - [Lecture 9.1 Video][lec9.1]
 - [Lecture 9.2 Video][lec9.2]
-
+- [Lecture 10 Video][lec10]
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
@@ -97,3 +97,5 @@
 [lec9pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_9.pdf
 [lec9.1]:https://youtu.be/Al2gkXmIf9w
 [lec9.2]:https://youtu.be/N3BDVAnN4RI
+
+[lec10]:https://youtu.be/HhD4nkQpxFY
