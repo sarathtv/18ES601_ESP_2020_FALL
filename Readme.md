@@ -104,10 +104,10 @@
 [lec9.1]:https://youtu.be/Al2gkXmIf9w
 [lec9.2]:https://youtu.be/N3BDVAnN4RI
 
-[lec10pdf]
+[lec10pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_10.pdf
 [lec10]:https://youtu.be/HhD4nkQpxFY
 
-[lec11pdf]
+[lec11pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_11.pdf
 [lec11-1]:https://youtu.be/k7fU30Had6c
 [lec11-2]:https://youtu.be/r8yleq3S2jI
 [lec11-3]:https://youtu.be/7s3BNLKm_gY
