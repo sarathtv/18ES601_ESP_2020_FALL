@@ -116,6 +116,6 @@
 [lec11-3]:https://youtu.be/7s3BNLKm_gY
 [lec11-4]:https://youtu.be/o8iskTqMNsc
 
-[lec12pdf]:
+[lec12pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_12.pdf
 [lec12-1]:https://youtu.be/YIl0swiF5ag
 [lec12-2]:https://youtu.be/QS0gYDevV8k
