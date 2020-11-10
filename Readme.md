@@ -63,6 +63,9 @@
 - [Lecture 12][lec12pdf]
 - [Lecture 12 Video-1][lec12-1]
 - [Lecture 12 Video-2][lec12-2]
+- [Lecture 13][lec13pdf]
+- [Lecture 13 Video-1][lec13-1]
+- [Lecture 13 Video-2][lec13-2]
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
@@ -119,3 +122,7 @@
 [lec12pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_12.pdf
 [lec12-1]:https://youtu.be/YIl0swiF5ag
 [lec12-2]:https://youtu.be/QS0gYDevV8k
+
+[lec13pdf]:
+[lec13-1]:https://youtu.be/pGrCZfw8DaI
+[lec13-2]:https://youtu.be/MTWbvAe5u74
