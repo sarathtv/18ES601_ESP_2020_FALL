@@ -318,6 +318,138 @@ int main()
 
 
 
+#define str3
+
+
+
+#ifdef str1
+#include <stdio.h>
+#include <string.h>
+
+struct name {
+    char first[24];
+    char last[24];
+    };
+
+int main()
+{
+
+    struct name me;
+
+    strcpy(me.first,"Sarath");
+    strcpy(me.last,"TV");
+
+    printf("Hello, %s %s!\n",me.first,me.last);
+
+    return(0);
+}
+#endif // str1
+
+#ifdef str2
+/*For a pointer version of the code, you have several options:
+pointer structure, pointer members, or both pointer structure and pointer members*/
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+    struct name {
+        char first[24];
+        char last[24];
+    };
+    struct name *me;
+
+    me = (struct name *)malloc(1 * sizeof(struct name));
+    if( me==NULL )
+    {
+        puts("Unable to allocate memory");
+        return(1);
+    }
+
+    strcpy(me->first,"SARATH");
+    strcpy(me->last,"TV");
+
+    printf("Hello, %s %s!\n",
+            me->first,
+            me->last);
+
+    return(0);
+}
+#endif // str2
+
+#ifdef str3
+/*Now consider this code, where the members are pointers, but the structure isn’t*/
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+    struct name {
+        char *first;
+        char *last;
+    };
+    struct name me;
+
+    me.first = (char *)malloc( sizeof(char) * 24 );
+    me.last = (char *)malloc( sizeof(char) * 24 );
+    if( me.first==NULL || me.last==NULL)
+    {
+        puts("Unable to allocate memory");
+        return(1);
+    }
+
+    strcpy(me.first,"SARATH");
+    strcpy(me.last,"TV");
+
+    printf("Hello, %s %s!\n",
+            me.first,
+            me.last);
+
+    return(0);
+}
+#endif // str3
+
+#ifdef str4
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main()
+{
+    struct name {
+        char *first;
+        char *last;
+    };
+    struct name *me;
+
+    me = (struct name *)malloc( sizeof(struct name) * 1);
+    if( me==NULL )
+    {
+        puts("Unable to allocate memory");
+        return(1);
+    }
+    me->first = (char *)malloc( sizeof(char) * 24 );
+    me->last = (char *)malloc( sizeof(char) * 24 );
+    if( me->first==NULL || me->last==NULL)
+    {
+        puts("Unable to allocate memory");
+        return(1);
+    }
+
+    strcpy(me->first,"SARATH");
+    strcpy(me->last,"Tv");
+
+    printf("Hello, %s %s!\n",
+            me->first,
+            me->last);
+
+    return(0);
+}
+#endif // str4
 
 
 
