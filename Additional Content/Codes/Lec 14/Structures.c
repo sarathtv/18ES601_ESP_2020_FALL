@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 
-#define STR_6
+//#define STR_5
 
 //#define STR_arg
 //#define STR_arg_ref
 //#define STR_access_reference
-//#define STR_ACCESS_DYNMC
+#define STR_ACCESS_DYNMC
 
 
 #ifdef STR_1
@@ -155,46 +155,9 @@ print(y);
 
 
 #endif // STR_
+
+
 #ifdef STR_5
-#include<stdio.h>
-
-struct dog
-{
-    char name[10];
-    char breed[10];
-    int age;
-    char color[10];
-};
-
-int main()
-{
-    struct dog my_dog = {"tyke", "Bulldog", 5, "white"};
-    struct dog *ptr_dog;
-    ptr_dog = &my_dog;
-
-    printf("Dog's name: %s\n", /*ptr_dog->name*/ (*ptr_dog).name);
-    printf("Dog's breed: %s\n", ptr_dog->breed);
-    printf("Dog's age: %d\n", ptr_dog->age);
-    printf("Dog's color: %s\n", ptr_dog->color);
-
-    // changing the name of dog from tyke to jack
-    strcpy(ptr_dog->name, "jack");
-    //ptr_dog->name= "jack";
-    //(*ptr_dog).name[0] = 'u';
-
-    // increasing age of dog by 1 year
-    ptr_dog->age++;
-
-    printf("Dog's new name is: %s\n", (*ptr_dog).name);
-    printf("Dog's age is: %d\n", ptr_dog->age);
-
-    // signal to operating system program ran fine
-    return 0;
-}
-#endif // STR_5
-
-
-#ifdef STR_6
 #include<stdio.h>
 
 struct student
@@ -207,7 +170,7 @@ struct student
 
 int main()
 {
-    //int age=25;
+
     struct student stu = {
                              "XYZ",
                              25,
@@ -354,45 +317,6 @@ int main()
 #endif // STR_access_reference
 
 
-#ifdef STR_ACCESS_DYNMC
-#include <stdio.h>
-#include <stdlib.h>
-
-struct person {
-   int age;
-   float weight;
-   char name[30];
-};
-
-int main()
-{
-   struct person *ptr;
-   int i, num;
-
-   printf("Enter number of persons: ");
-   scanf("%d", &num);
-
-   ptr = (struct person*) malloc(num * sizeof(struct person));
-   // Above statement allocates the memory for n structures with pointer personPtr pointing to base address */
-
-   for(i = 0; i < num; ++i)
-   {
-       printf("Enter the age of %d person\t",i+1);
-       scanf("%d", &(ptr+i)->age);
-       printf("Enter the weight of %d person\t",i+1);
-       scanf("%f", &(ptr+i)->weight);
-       printf("Enter the name of %d person\t",i+1);
-       scanf("%s", &(ptr+i)->name);
-
-   }
-
-   printf("Displaying Infromation:\n");
-   for(i = 0; i < num; ++i)
-       printf("%s\t%d\t%.2f\n", (ptr+i)->name, (ptr+i)->age, (ptr+i)->weight);
-
-   return 0;
-}
-#endif // STR_ACCESS_DYNMC
 
 
 
