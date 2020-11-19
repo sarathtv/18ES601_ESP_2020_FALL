@@ -67,6 +67,13 @@
 - [Code L13][lec13 Code]
 - [Lecture 13 Video-1][lec13-1]
 - [Lecture 13 Video-2][lec13-2]
+- [Lecture 13 Video-3][lec13-2]
+- [Lecture 14][lec14pdf]
+- [Code L14][lec14 Code]
+- [Lecture 14 Video][lec14]
+- [Lecture 15][lec15pdf]
+- [Code L15][lec15 Code]
+- [Lecture 15 Video][lec15]
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
@@ -127,4 +134,13 @@
 [lec13pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_13.pdf
 [lec13-1]:https://youtu.be/pGrCZfw8DaI
 [lec13-2]:https://youtu.be/MTWbvAe5u74
+[lec13-2]:https://youtu.be/IVxFIpUgBj8
 [lec13 Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec13
+
+[lec14pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_14.pdf
+[lec14 Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec%2014
+[lec14]:https://youtu.be/1iENbFtdN7A
+
+[lec15pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_15.pdf
+[lec15 Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec%2015
+[lec15]:https://youtu.be/Lx18-O1It4Q
