@@ -148,6 +148,6 @@
 [lec15 Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec%2015
 [lec15]:https://youtu.be/Lx18-O1It4Q
 
-[lec16pdf]:
+[lec16pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_16.pdf
 [lec16.1]:https://youtu.be/-kpkpj8vkBk
 [lec16.2]:https://youtu.be/zqHDmOhu3Xo
