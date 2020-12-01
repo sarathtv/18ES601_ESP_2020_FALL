@@ -74,6 +74,9 @@
 - [Lecture 15][lec15pdf]
 - [Code L15][lec15 Code]
 - [Lecture 15 Video][lec15]
+- [Lecture 16][lec16pdf]
+- [Lecture 16 Video-1][lec16.1]
+- [Lecture 16 Video-2][lec16.2]
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
@@ -144,3 +147,7 @@
 [lec15pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_15.pdf
 [lec15 Code]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/tree/master/Additional%20Content/Codes/Lec%2015
 [lec15]:https://youtu.be/Lx18-O1It4Q
+
+[lec16pdf]:
+[lec16.1]:https://youtu.be/-kpkpj8vkBk
+[lec16.2]:https://youtu.be/zqHDmOhu3Xo
