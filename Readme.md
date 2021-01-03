@@ -77,6 +77,12 @@
 - [Lecture 16][lec16pdf]
 - [Lecture 16 Video-1][lec16.1]
 - [Lecture 16 Video-2][lec16.2]
+- [Lecture 17][lec17pdf]
+- [Lecture 17 Video][lec17]
+- [Lecture 18][lec18pdf]
+- [Lecture 18 Video][lec18]
+- [Lecture 19][lec19pdf]
+- [Lecture 19 Video][lec19]
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
@@ -151,3 +157,12 @@
 [lec16pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_16.pdf
 [lec16.1]:https://youtu.be/-kpkpj8vkBk
 [lec16.2]:https://youtu.be/zqHDmOhu3Xo
+
+[lec17pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_17.pdf
+[lec17]:https://youtu.be/A3eqJQF8jxI
+
+[lec18pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_18.pdf
+[lec18]:https://youtu.be/cic6Og4e2og
+
+[lec19pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_19.pdf
+[lec19]:https://youtu.be/2pPNE07YSf4
