@@ -173,4 +173,4 @@
 
 [lec20pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_20.pdf
 [lec20]:https://youtu.be/aehKVRBpKSI
-[lec20-2]https://youtu.be/Sz7MiZ0njLw
+[lec20-2]:https://youtu.be/Sz7MiZ0njLw
