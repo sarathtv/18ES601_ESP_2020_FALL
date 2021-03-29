@@ -13,7 +13,6 @@
 * Understanding the usage of LL and queue in embedded system applications.
 * Understand the features of oops  and differentiate it from structured programming .
 * Understand the basics of an interpreted language.
-* Understand shell scripting and its need.
 * Demonstrate an understanding the coding standards and convention.
 * Demonstrate an understanding of the tools used for documenting the code.
 
@@ -82,7 +81,11 @@
 - [Lecture 18][lec18pdf]
 - [Lecture 18 Video][lec18]
 - [Lecture 19][lec19pdf]
-- [Lecture 19 Video][lec19]
+- [Lecture 19 Video-1][lec19]
+- [Lecture 19 Video-2][lec19-2]
+- [Lecture 20][lec20pdf]
+- [Lecture 20 Video-1][lec20]
+- [Lecture 20 Video-2][lec20-2]
 
 [Link_bride]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/Bridge_Course.pdf
 [link_intro]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_00_Course_Intro.pdf
@@ -166,3 +169,8 @@
 
 [lec19pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_19.pdf
 [lec19]:https://youtu.be/2pPNE07YSf4
+[lec19-2]:https://youtu.be/jcUYCKBiUJI
+
+[lec20pdf]:https://github.com/sarathtv/18ES601_ESP_2020_FALL/blob/master/Presentations/18ES601_Lec_20.pdf
+[lec20]:https://youtu.be/aehKVRBpKSI
+[lec20-2]https://youtu.be/Sz7MiZ0njLw
